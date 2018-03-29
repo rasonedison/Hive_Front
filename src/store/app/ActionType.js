@@ -1,0 +1,5 @@
+export const GET_DATA_SUCCESS = 'GET_DATA_SUCCESS'
+export const ERROR_MSG = 'ERROR_MSG'
+export const LOAD_DATA = 'LOAD_DATA'
+export const UPDATE_DATA = 'UPDATE_DATA'
+export const ADD_DATA = 'ADD_DATA'
